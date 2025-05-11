@@ -47,7 +47,7 @@ let lastResponse = "";
 export const entry = {
   name: t("chatbot.entry"),
   extensionId: "chatbot",
-  extensionURL: "https://RAW_URL_DOVE_PUBBLICHERAI/xcratchChatbot.mjs",
+  extensionURL: "https://raw.githubusercontent.com/beppea/cigliano/refs/heads/main/xcratchChatbot.mjs",
   iconURL: img,
   insetIconURL: img,
   description: t("chatbot.desc"),
